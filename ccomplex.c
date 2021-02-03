@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+ 
 struct dcomplex_ {
   double r;
   double i;
